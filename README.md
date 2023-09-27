@@ -14,7 +14,7 @@
 
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Equipe:
 - Maria Eduarda de Queiroz Lima
-- [Gustavo Henrique](https://github.com/GustavoHenrique07)
+- [Gustavo Henrique color="white"](https://github.com/GustavoHenrique07)
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Professor:
 - Roger Moura Sarmento.
 
