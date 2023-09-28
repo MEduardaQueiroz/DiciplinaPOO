@@ -35,8 +35,8 @@ Questão | Enunciado
 [**05**]() | Faça um progrma que receba o preço de um produto , calcule e mostre o novo preço , sabendo-se que este sofreu um desconto de 10%.
 [**06**]() | Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu salário final.
 [**07**]() | Faça um programa que receba o peso de uma pessoa, calcule e mostre:a)o novo peso, se a pessoa engordar 15% sobre o peso digitado;b)o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
-[**08**]() | Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
 [**09**]() | Faça um programa que calcule e mostre a área de um trapézio. Sabe-se que: A = ((base maior + base menor) * altura)/2
+[**10**]() | Faça um programa que calcule e mostre área de um quadrado.Sabe-se que:a=lado.lado.
 [**13**]() | Faça um programa que calcule e mostre a tabuada de um número digitado pelo usuário.
 [**19**]() | Sabe-se que, para iluminar de maneira correta os cômodos de uma casa, para cada m2, deve-se usar 18 Wde potência. Faça um programa que receba as duas dimensões de um cômodo (em metros), calcule e mostrea sua área (em m2) e a potência de iluminação que deverá ser utilizada.
 [**20**]() | Faça um programa que receba a medida do ângulo formado por uma escada apoiada no chão e a dis-tância em que a escada está da parede, calcule e mostre a medida da escada para que se possa alcançarsua ponta.
