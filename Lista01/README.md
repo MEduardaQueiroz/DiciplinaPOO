@@ -32,13 +32,13 @@ Questão | Enunciado
 
 Questão | Enunciado
 :-----: | :-------:
-[**02**]() | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+[**05**]() | Faça um progrma que receba o preço de um produto , calcule e mostre o novo preço , sabendo-se que este sofreu um desconto de 10%.
 [**06**]() | Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu salário final.
 [**07**]() | Faça um programa que receba o peso de uma pessoa, calcule e mostre:a)o novo peso, se a pessoa engordar 15% sobre o peso digitado;b)o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
 [**08**]() | Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
-[**11**]() | Faça um programa que calcule e mostre a área de um losango. Sabe-se que: A = (diagonal maior * diagonal menor)/2.
-[**12**]() | Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que esse funcionário ganha.
-[**15**]() | João recebeu seu salário e precisa pagar duas contas atrasadas. Em razão do atraso, ele deverá pagar multa de 2% sobre cada conta. Faça um programa que calcule e mostre quanto restará do salário de João.
-[**23**]() | Faça um programa que receba a medida de dois ângulos de um triângulo, calcule e mostre a medida do terceiro ângulo. Sabe-se que a soma dos ângulos de um triângulo é 180 graus.
+[**09**]() | Faça um programa que calcule e mostre a área de um trapézio. Sabe-se que: A = ((base maior + base menor) * altura)/2
+[**13**]() | Faça um programa que calcule e mostre a tabuada de um número digitado pelo usuário.
+[**19**]() | Sabe-se que, para iluminar de maneira correta os cômodos de uma casa, para cada m2, deve-se usar 18 Wde potência. Faça um programa que receba as duas dimensões de um cômodo (em metros), calcule e mostrea sua área (em m2) e a potência de iluminação que deverá ser utilizada.
+[**20**]() | Faça um programa que receba a medida do ângulo formado por uma escada apoiada no chão e a dis-tância em que a escada está da parede, calcule e mostre a medida da escada para que se possa alcançarsua ponta.
 [**24**]() | Faça um programa que receba a quantidade de dinheiro em reais que uma pessoa que vai viajar possui. Ela vai passar por vários países e precisa converter seu dinheiro em dólares, marco alemão e libra esterlina. Sabe-se que a cotação do dólar é de R$ 1,80; do marco alemão, de R$ 2,00; e da libra esterlina, de R$ 3,57. O programa deve fazer as conversões e mostrá-las.
 [**25**]() | Faça um programa que receba uma hora (uma variável para hora e outra para minutos), calcule e mostre:a) a hora digitada convertida em minutos;b) o total dos minutos, ou seja, os minutos digitados mais a conversão anterior;c) o total dos minutos convertidos em segundos.
