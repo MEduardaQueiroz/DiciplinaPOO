@@ -25,11 +25,9 @@ e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na ta
 [**20**]() | Faça um programa que receba:
 [**21**]() | Faça um programa que receba:
 [**22**]() | Faça um programa que receba o salário base e o tempo de serviço de um funcionário. Calcule e mostre:
-[**23**]() | Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M — matutino; V— vespertino; ou N — noturno), a categoria (O — operário; G — gerente) e o número de horas traalhadas no mês de um funcionário. Suponha a digitação apenas de dados válidos e, quando houver
-[**24**]() | Faça um programa que leia um vetor A de dez posições contendo números inteiros. Determine e mostre,
-a seguir, quais elementos de A estão repetidos e quantas vezes cada um se repete.
-[**25**]() |Faça um programa que gere os dez primeiros números primos acima de 100 e armazene-os em um
-vetor. Escreva no final o vetor resultante.
+[**23**]() | Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M — matutino; V— vespertino; ou N — noturno), a categoria (O — operário; G — gerente) e o número de horas traalhadas no mês de um funcionário. Suponha a digitação apenas de dado válidos e, quando houver
+[**24**]() | Faça um programa que leia um vetor A de dez posições contendo números inteiros. Determine e mostre,a seguir, quais elementos de A estão repetidos e quantas vezes cada um se repete.
+[**25**]() |Faça um programa que gere os dez primeiros números primos acima de 100 e armazene-os em umvetor. Escreva no final o vetor resultante.
 
 #  Lista de Questões Propostas
 
@@ -46,9 +44,10 @@ Questão | Enunciado
 #  Lista de Questões Resolvidas Capitulo5 
 Questão | Enunciado
 :--------: | :-----------:
-[**01**]() | 
-[**02**]() | 
-[**03**]() | 
+[**01**]() | Um funcionário de uma empresa recebe, anualmente, aumento salarial. Sabe-se que:a) Esse funcionário foi contratado em 2005, com salário inicial de R$ 1.000,00.b) Em 2006, ele recebeu aumento de 1,5% sobre seu salário inicial.c) A partir de 2007(inclusive), os aumentos salariais sempre corresponderam ao dobro do percentual do anoanterior.Faça um programa que determine o salário atual desse funcionário.
+[**02**]() | Faça um programa que leia um valor N inteiro e positivo. Calcule e mostre o valor de E, conforme a
+fórmula a seguir:E = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N!
+[**03**]() | Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem serlidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor.
 [**04**]() | 
 [**05**]() | 
 [**06**]() | 
